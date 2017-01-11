@@ -24,6 +24,7 @@
 #import "BZObjectStoreMigration.h"
 #import "BZObjectStoreConditionModel.h"
 #import "BZObjectStoreMigration.h"
+#import <sqlite3.h>
 
 @class FMDatabaseQueue;
 @class FMDatabase;
